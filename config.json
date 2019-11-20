@@ -1,0 +1,11 @@
+{
+    "Title" : "Config for making PLINK 1000 genomes CEU input files",
+    
+    "auxiliaryFiles" : {
+        "vcf_download_list" : "./data/igsr_Utah_residents_CEPH_with_Northern_and_Western_Europea_ancestry_undefined.tsv"
+    },
+    
+    "vcf_out_dir" : "/scratch/users/paedugar/plink_data/1000genomes/phase3/CEU/vcf/",
+    "plink_files_out_dir" : "/scratch/users/paedugar/plink_data/1000genomes/phase3/CEU/bed/"
+    
+}
